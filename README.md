@@ -4,7 +4,7 @@ This repo is a collection of awesome efficient transformers.
 ## Table of Contents
 - Papers
 - Blogs
-- Datasets
+- Tutorials
 
 ## Papers
 - Attention Is All You Need (NeurIPS 2017) [[paper](https://arxiv.org/abs/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor)]
@@ -27,7 +27,7 @@ This repo is a collection of awesome efficient transformers.
 - Compressive Transformers for Long-Range Sequence Modelling [[paper](https://arxiv.org/abs/1911.05507)]
 - Lite Transformer with Long-Short Range Attention (ICLR 2020) [[paper](https://arxiv.org/abs/2004.11886)]
 
-### Attention Matrix Patterns
+### Attention Matrix Improvements
 - Blockwise Self-Attention for Long Document Understanding (Workshop at EMNLP 2020) [[paper](https://arxiv.org/abs/1911.02972)]
 - Generating Long Sequences with Sparse Transformers [[paper](https://arxiv.org/abs/1904.10509)]
 - Axial Attention in Multidimensional Transformers [[paper](https://arxiv.org/abs/1912.12180)]
@@ -51,3 +51,20 @@ This repo is a collection of awesome efficient transformers.
 - BinaryBERT: Pushing the Limit of BERT Quantization (ACL 2021) [[paper](https://arxiv.org/abs/2012.15701)]
 - ROSITA: Refined BERT cOmpreSsion with InTegrAted techniques (AAAI 2021) [[paper](https://arxiv.org/abs/2103.11367)]
 - HAT: Hardware-Aware Transformers for Efficient Natural Language Processing (ACL 2020) [[paper](https://arxiv.org/abs/2005.14187)]
+- Efficient Transformers: A Survey [[paper](https://arxiv.org/abs/2009.06732)]
+
+## Blogs
+- [Training a single AI model can emit as much carbon as five cars in their lifetimes](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)
+- [Model Compression via Pruning](https://towardsdatascience.com/model-compression-via-pruning-ac9b730a7c7b)
+- [A developer-friendly guide to model pruning in PyTorch](https://spell.ml/blog/model-pruning-in-pytorch-X9pXQRAAACIAcH9h)
+- [Achieving FP32 Accuracy for INT8 Inference Using Quantization Aware Training with NVIDIA TensorRT](https://developer.nvidia.com/blog/achieving-fp32-accuracy-for-int8-inference-using-quantization-aware-training-with-tensorrt/)
+- [Distilling Knowledge in Neural Networks](https://wandb.ai/authors/knowledge-distillation/reports/Distilling-Knowledge-in-Neural-Networks--VmlldzoyMjkxODk)
+- [Compressing BERT for faster prediction](https://rasa.com/blog/compressing-bert-for-faster-prediction-2/)
+
+## Tutorials
+- [High Performance Natural Language Processing](http://gabrielilharco.com/publications/EMNLP_2020_Tutorial__High_Performance_NLP.pdf)
+- [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization)
+- [TensorFlow Lite example apps](https://www.tensorflow.org/lite/examples)
+- [PyTorch Quantization](https://pytorch.org/docs/stable/quantization.html)
+- [PyTorch Pruning Tutorial](https://pytorch.org/tutorials/intermediate/pruning_tutorial.html)
+- [TensorFlow Lite Transformers w/ Android demos](https://github.com/huggingface/tflite-android-transformers)
