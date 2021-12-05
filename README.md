@@ -25,6 +25,7 @@ This repo is a collection of awesome efficient transformers.
 - Big Bird: Transformers for Longer Sequences (NeurIPS 2020) [[paper](https://arxiv.org/abs/2007.14062)]
 - Efficient Content-Based Sparse Attention with Routing Transformers (TACL 2020) [[paper](https://arxiv.org/abs/2003.05997)]
 - Compressive Transformers for Long-Range Sequence Modelling [[paper](https://arxiv.org/abs/1911.05507)]
+- Lite Transformer with Long-Short Range Attention (ICLR 2020) [[paper](https://arxiv.org/abs/2004.11886)]
 
 ### Attention Matrix Patterns
 - Blockwise Self-Attention for Long Document Understanding (Workshop at EMNLP 2020) [[paper](https://arxiv.org/abs/1911.02972)]
@@ -34,3 +35,19 @@ This repo is a collection of awesome efficient transformers.
 - Sparse Sinkhorn Attention [[paper](https://arxiv.org/abs/2002.11296)]
 
 ### Other Efficient Transformers / BERT
+- ALBERT: A Lite BERT for Self-supervised Learning of Language Representations (ICLR 2020) [[paper](https://arxiv.org/abs/1909.11942)]
+- Patient Knowledge Distillation for BERT Model Compression (EMNLP 2019) [[paper](https://arxiv.org/abs/1908.09355)]
+- TinyBERT: Distilling BERT for Natural Language Understanding (EMNLP 2020) [[paper](https://arxiv.org/abs/1909.10351)]
+- DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter (Workshop in NeurIPS 2019) [[paper](https://arxiv.org/abs/1910.01108)]
+- Contrastive Distillation on Intermediate Representations for Language Model Compression (EMNLP 2020) [[paper](https://arxiv.org/abs/2009.14167)]
+- MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices (ACL 2020) [[paper](https://arxiv.org/abs/2004.02984)]
+- Dynamic Knowledge Distillation for Pre-trained Language Models (EMNLP 2021) [[paper](https://arxiv.org/abs/2109.11295)]
+- FastBERT: a Self-distilling BERT with Adaptive Inference Time (ACL 2020) [[paper](https://arxiv.org/abs/2004.02178)]
+- XtremeDistil: Multi-stage Distillation for Massive Multilingual Models (ACL 2020) [[paper](https://arxiv.org/abs/2004.05686)]
+- AutoTinyBERT: Automatic Hyper-parameter Optimization for Efficient Pre-trained Language Models (ACL 2021) [[paper](https://arxiv.org/abs/2107.13686)] [[code](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/AutoTinyBERT)]
+- DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering (ACL 2020) [[paper](https://arxiv.org/abs/2005.00697)]
+- Q8BERT: Quantized 8Bit BERT (Workshop in NeurIPS 2019) [[paper](https://arxiv.org/abs/1910.06188)]
+- Training with Quantization Noise for Extreme Model Compression (ICLR 2021) [[paper](https://arxiv.org/abs/2004.07320)]
+- BinaryBERT: Pushing the Limit of BERT Quantization (ACL 2021) [[paper](https://arxiv.org/abs/2012.15701)]
+- ROSITA: Refined BERT cOmpreSsion with InTegrAted techniques (AAAI 2021) [[paper](https://arxiv.org/abs/2103.11367)]
+- HAT: Hardware-Aware Transformers for Efficient Natural Language Processing (ACL 2020) [[paper](https://arxiv.org/abs/2005.14187)]
