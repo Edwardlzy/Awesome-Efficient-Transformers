@@ -60,6 +60,8 @@ This repo is a collection of awesome efficient transformers.
 - [Achieving FP32 Accuracy for INT8 Inference Using Quantization Aware Training with NVIDIA TensorRT](https://developer.nvidia.com/blog/achieving-fp32-accuracy-for-int8-inference-using-quantization-aware-training-with-tensorrt/)
 - [Distilling Knowledge in Neural Networks](https://wandb.ai/authors/knowledge-distillation/reports/Distilling-Knowledge-in-Neural-Networks--VmlldzoyMjkxODk)
 - [Compressing BERT for faster prediction](https://rasa.com/blog/compressing-bert-for-faster-prediction-2/)
+- [BERT-related Papers](https://github.com/tomohideshibata/BERT-related-papers)
+- [awesome-transformers](https://github.com/shizhediao/awesome-transformers)
 
 ## Tutorials
 - [High Performance Natural Language Processing](http://gabrielilharco.com/publications/EMNLP_2020_Tutorial__High_Performance_NLP.pdf)
